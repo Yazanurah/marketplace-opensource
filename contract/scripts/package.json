@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "@terra-money/terra.js": "^3.1.1",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "dotenv": "^9.0.2",
     "ts-node": "^9.1.1"
   },
