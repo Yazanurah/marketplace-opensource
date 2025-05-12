@@ -16,7 +16,7 @@
     "@fortawesome/react-fontawesome": "^0.1.15",
     "@mui/icons-material": "^5.0.0-rc.1",
     "@mui/lab": "^5.0.0-alpha.46",
-    "@mui/material": "^5.0.0-rc.1",
+    "@mui/material": "^7.0.0",
     "@mui/styles": "^5.0.0-rc.1",
     "@terra-dev/wallet-types": "^2.5.2",
     "@terra-money/terra.js": "^3.1.8",
@@ -40,7 +40,7 @@
     "react-toastify": "^8.0.2",
     "sass": "^1.42.0",
     "uuid": "^8.2.0",
-    "yup": "^0.32.8"
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.10.4",
